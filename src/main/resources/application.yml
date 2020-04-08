@@ -3,3 +3,10 @@ guru:
     username: JMS Kerzlin
     password: somepass
     url: SomeUrl
+
+---
+spring:
+  profiles: de
+guru:
+  jms:
+    username: NatalieKerschlin
