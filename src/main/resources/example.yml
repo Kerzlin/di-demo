@@ -1,20 +1,36 @@
 # this is comment
 
-name: John
+name: Natalija
 
 names: #comment
-  - John
-  - Paul
-  - Ringo
+  - Natalija
+  - Nebojsa
+  - Lenka
 
 pound_sign: "#"
 
 book:
-  author: Pera Peric
-  publisher: pcelica
+  author: Ivo ANdric
+  publisher: Vulkan
 
 truth : yes
 
 another_truth: True
 
+more_true: true
+
+false: no #No, false, FALSE
+
 string_val: "This is quote"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  sdada dasdad dada
+  dasd dsa dadad
+  dada dad dad
+
+ignore_new_lines: >
+  prvi red
+  drugi red
+  treci red
