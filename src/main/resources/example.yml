@@ -1,0 +1,20 @@
+# this is comment
+
+name: John
+
+names: #comment
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+  author: Pera Peric
+  publisher: pcelica
+
+truth : yes
+
+another_truth: True
+
+string_val: "This is quote"
